@@ -25,7 +25,7 @@
     ],
     "homepage": "https://github.com/Tenderly/tenderly-actions#readme",
     "devDependencies": {
-        "typescript": "^4.4.3"
+        "typescript": "^5.9.2"
     },
     "dependencies": {
         "@tenderly/actions": "^0.2.41"
